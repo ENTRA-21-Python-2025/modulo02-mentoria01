@@ -1,0 +1,12 @@
+# Este arquivo lista as dependências do projeto
+# Atualmente o projeto não requer pacotes externos
+# pois utiliza apenas bibliotecas padrão do Python
+
+# Versão do Python recomendada
+# python>=3.8
+
+# Exemplo de como adicionar dependências no futuro:
+# nome-do-pacote==versão
+# exemplo: requests==2.31.0 
+
+requests==2.31.0 
