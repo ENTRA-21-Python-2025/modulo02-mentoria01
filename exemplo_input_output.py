@@ -1,3 +1,5 @@
+import random
+
 # Exemplo simples de input e output em Python
 
 # Pedindo o nome do usuário
@@ -22,3 +24,7 @@ print(f"\nEm 5 anos você terá {idade_futura} anos")
 # Mensagem personalizada
 print(f"\nOlá {nome}! É um prazer te conhecer!")
 print(f"Que legal que você mora em {cidade}!") 
+
+
+numero = round(random.uniform(1.4, 2.0), 3)
+print(numero)
